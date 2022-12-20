@@ -9,4 +9,8 @@ public class CarDetails {
 	private void toyota() {
 		System.out.println("Innova Crysta");
 	}
+	
+	private void honda() {
+System.out.println("Amaze");
+	}
 }
