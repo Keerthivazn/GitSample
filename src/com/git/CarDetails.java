@@ -14,6 +14,14 @@ public class CarDetails {
 		System.out.println("Amaze");
 	}
 
+	private void ford() {
+		System.out.println("Endeavour");
+	}
+
+	private void wolkswagon() {
+		System.out.println("Polo");
+	}
+
 	private void tata() {
 		System.out.println("Nexon");
 	}
